@@ -1,7 +1,7 @@
 function handleCreated(tab) {
   console.log("the created tab id is "+tab.id);
 
-var updating = browser.tabs.update("clock/aishu1.html");
+var updating = browser.tabs.update({url: "clock/aishu1.html"});
 updating.then(onUpdated, onError);
 }
 
