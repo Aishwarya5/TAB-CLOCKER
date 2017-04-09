@@ -1,6 +1,6 @@
 {
 "manifest_version": 2,
-"name" : "Tab Update",
+"name" : "clock",
 "description" : "Open links in new Tab",
 
 "homepage_url": "http://iamvp7.github.io/",
