@@ -1,7 +1,7 @@
 {
 "manifest_version": 2,
 "name" : "clock",
-"description" : "Open links in new Tab",
+"description" : "know the exact time , once u click on new tab",
 
 "homepage_url": "http://iamvp7.github.io/",
   "version": "1.0",
